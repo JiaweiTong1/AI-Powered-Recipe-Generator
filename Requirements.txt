@@ -1,0 +1,8 @@
+streamlit
+gdown
+pandas
+spacy
+annoy
+numpy
+transformers
+torch
